@@ -7,8 +7,8 @@ public class Example1Test {
 	public void print1Test() {
 		String url=System.getProperty("URL");
 		String browser=System.getProperty("BROWSER");
-		System.out.println(url);
-		System.out.println(browser);
+		
+		
 		System.out.println("tyss1-test1,true");
 	}
 	@Test
