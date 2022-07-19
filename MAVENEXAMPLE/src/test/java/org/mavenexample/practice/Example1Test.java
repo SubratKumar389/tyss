@@ -8,10 +8,13 @@ public class Example1Test {
 		String url=System.getProperty("URL");
 		String browser=System.getProperty("BROWSER");
 		System.out.println("url");
+<<<<<<< HEAD
 		
 
 		System.out.println("tyss1-test1");
 
+=======
+>>>>>>> branch 'master' of https://github.com/testgithubbri/SDET36_TS.git
 		
 	
 	}
