@@ -9,7 +9,7 @@ public class Example1Test {
 		String browser=System.getProperty("BROWSER");
 		System.out.println(url);
 		
-		System.out.println("tyss1-test1,true");
+		System.out.println("tyss1-test1");
 	}
 	@Test
 	public void print2Test() {
