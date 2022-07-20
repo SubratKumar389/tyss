@@ -13,6 +13,6 @@ public class Example1Test {
 	}
 	@Test
 	public void print2Test() {
-		System.out.println("tyss2-test1");
+		System.out.println("tyss2-test3");
 	}
 }
