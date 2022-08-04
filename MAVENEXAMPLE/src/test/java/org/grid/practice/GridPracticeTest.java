@@ -13,7 +13,7 @@ public class GridPracticeTest {
 		
  URL url = new URL("http://localhost:4444/wd/hub");
  DesiredCapabilities cap=new DesiredCapabilities();
- //heloo
+ //heloobb
  cap.setBrowserName("chrome12");
  cap.setPlatform(Platform.WINDOWS);
  RemoteWebDriver driver=new RemoteWebDriver(url, cap);
