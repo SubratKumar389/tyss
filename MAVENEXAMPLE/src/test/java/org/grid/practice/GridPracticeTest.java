@@ -11,8 +11,8 @@ public class GridPracticeTest {
 
 	public static void main(String[] args) throws MalformedURLException {
 		
- URL url = new URL("http://localhost:4444/wd/hub");
- DesiredCapabilities cap=new DesiredCapabilities();
+// URL url = new URL("http://localhost:4444/wd/hub");
+// DesiredCapabilities cap=new DesiredCapabilities();
  
  cap.setBrowserName("chrome12");
  cap.setPlatform(Platform.WINDOWS);
